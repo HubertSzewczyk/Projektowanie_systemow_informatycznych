@@ -1,0 +1,4 @@
+Diagram klas obrazuje zbiór klas, interfejsów oraz związki między nimi.  
+Diagram klas przedstawia statyczną strukturę systemu, podkreślając związki między klasami. 
+W modelowaniu złożonych systemów można tworzyć wiele diagramów klas, skupiających się na różnych aspektach systemu. 
+Kompleksowy model systemu powstaje przez złożenie wszystkich diagramów.
