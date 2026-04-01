@@ -1,0 +1,3 @@
+Diagram czynności (ang. activity diagram) jest diagramem behawioralnym, który służy do modelowania dynamicznych aspektów systemu. 
+Jego zasadniczą funkcją jest przedstawienie sekwencji kroków, które są wykonywane przez modelowany fragment systemu. 
+Jest idealny do opisania scenariuszy przypadków użycia. 
